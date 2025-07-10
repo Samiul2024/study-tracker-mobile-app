@@ -1,1 +1,1 @@
-### Mobile App Link : study-tracker-mobile-app.netlify.app
+### Mobile App Link : https://study-tracker-mobile-app.netlify.app/
