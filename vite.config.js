@@ -13,7 +13,7 @@ export default defineConfig({
       includeAssets: ['favicon.svg', 'robots.txt'],
       manifest: {
         name: 'Study Tracker',
-        short_name: 'StudyApp',
+        short_name: 'Study Tracker',
         start_url: '/',
         display: 'standalone',
         background_color: '#ffffff',
